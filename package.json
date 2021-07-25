@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "main": "set.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sergey Minakov",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
