@@ -1,4 +1,4 @@
-const MySet = require("./set");
+const MySet = require("../MySet");
 
 describe("MySet", () => {
     let set;
